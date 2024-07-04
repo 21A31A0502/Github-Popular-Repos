@@ -6,7 +6,7 @@ In this project, I have completed the **Github Popular Repos** application by ap
 
 ![Github Popular Repos Output](https://assets.ccbp.in/frontend/content/react-js/github-popular-repos-output.gif)
 
-**Failure View**
+**Failure View** 
 
 ![Github Popular Repos Failure View](https://assets.ccbp.in/frontend/content/react-js/github-popular-repos-error-view-output.gif)
 
